@@ -17,3 +17,5 @@ This project analyzes monthly sales data using Python and pandas. It shows total
 - Total Sales
 - Monthly Sales
 - Product-wise Revenue (Bar Chart)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/REPO-NAME/blob/main/sales_analysis.ipynb)
